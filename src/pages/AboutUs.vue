@@ -1,4 +1,5 @@
 <script setup>
+import Footer from '../components/Footer.vue';
 import HeaderSection from '../components/Header.vue'
 import Section1 from '../components/Section-1.vue';
 import Section2 from '../components/Section-2.vue';
@@ -16,4 +17,5 @@ import Section6 from '../components/Section-6.vue';
     <Section4/>
     <Section5/>
     <Section6/>
+    <Footer/>
 </template>
