@@ -419,6 +419,7 @@
 .member-name {
     font-size: 1.5vw;
     line-height: 1.5;
+    text-align: center;
 
     @media screen and (max-width: 780px) {
         font-size: 3vw;
@@ -432,6 +433,7 @@
 .member-role{
     font-size: 1vw;
     line-height: 1.5;
+    text-align: center;
 
     @media screen and (max-width: 780px) {
         font-size: 2vw;
