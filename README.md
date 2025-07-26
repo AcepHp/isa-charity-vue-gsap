@@ -1,5 +1,34 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 🎬 Interactive Vue.js Application with GSAP Animations
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+An interactive, modern frontend application built with [Vue.js 3](https://vuejs.org/), animated using [GSAP (GreenSock Animation Platform)](https://gsap.com/), and styled with [SASS](https://sass-lang.com/). Powered by the fast and lightweight [Vite](https://vitejs.dev/) build tool for optimal development experience.
+
+
+
+## 🛠 Tech Stack
+
+| Technology | Description                    |
+|------------|--------------------------------|
+| Vue.js     | Reactive frontend framework    |
+| GSAP       | Animation library for the web |
+| Vite       | Fast build tool & dev server   |
+| SASS       | CSS preprocessor for styling   |
+
+---
+
+## 📦 Project Setup
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/AcepHp/isa-charity-vue-gsap.git
+cd isa-charity-vue-gsap
+```
+
+### 2. **Install Dependencies**
+```bash
+npm install
+```
+
+### 3. **Start Development Server**
+```bash
+npm run dev
